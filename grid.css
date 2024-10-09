@@ -1,0 +1,26 @@
+.mondrian {
+  display: grid;
+  grid-template-columns: 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5% 5.5%;
+  grid-template-rows: 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4% 4%;
+}
+
+.black {
+background-color: black;
+}
+
+.white {
+background-color: white;
+}
+
+.red {
+background-color: red;
+}
+
+.blue {
+background-color: blue;
+}
+
+.yellow {
+background-color: yellow;
+grid-column: 24/26;
+}
